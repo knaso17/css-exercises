@@ -1,0 +1,11 @@
+.container p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* These selectors all have the same effect. Mix of type & class */
+/* div p */
+/* div .text */
+/* .container .text */
